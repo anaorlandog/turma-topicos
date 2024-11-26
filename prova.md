@@ -18,6 +18,5 @@ Período: 1º Período
 
 
 
-| Ana Carolina Orlando Grácio | 2024211790081 | Equipe Guga |
-   
+| Ana Carolina Orlando Grácio | 2024211790081 | Equipe Guga |  
 <!-- Adicione mais alunos aqui -->
